@@ -5,3 +5,4 @@ __pycache__/
 .cursor/
 .cursorignore
 cursor_rules.md
+data/patients.db
