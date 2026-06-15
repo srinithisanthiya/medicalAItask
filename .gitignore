@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.cursor/
+.cursorignore
+cursor_rules.md
